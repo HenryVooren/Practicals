@@ -1,6 +1,7 @@
 """
 CP1404/CP5632 Practical
 Word dictionary
+update to commit to prac_05 feedback
 """
 
 user_sentence = input(">>> ").lower()  # ensuring lower case for consistency

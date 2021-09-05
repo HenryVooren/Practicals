@@ -1,6 +1,7 @@
 """
 CP1404/CP5632 Practical
 Email dictionary
+update to commit to prac_05 feedback
 """
 
 email_dict = {}

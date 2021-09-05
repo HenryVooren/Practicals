@@ -1,6 +1,7 @@
 """
 CP1404/CP5632 Practical
 Hexadecimal colour codes
+update to commit to prac_05 feedback
 """
 
 COLOUR_TO_HEXADECIMAL = {"coral": "#ff7f50", "cornflowerblue": "#6495ed", "darkorchid": "#9932cc",

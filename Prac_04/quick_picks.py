@@ -1,3 +1,9 @@
+"""
+CP1404/CP5632 Practical
+Quick lottery picks
+update to commit to prac_05 feedback
+"""
+
 import random
 
 MIN_NUMBER = 1
