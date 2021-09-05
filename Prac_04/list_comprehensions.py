@@ -1,6 +1,7 @@
 """
 CP1404/CP5632 Practical
 List comprehensions
+update to commit to prac_05 feedback
 """
 
 names = ["Bob", "Angel", "Jimi", "Alan", "Ada"]
